@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/REACT_MOVIES_APP/static/css/main.486dd15e.chunk.css",
-    "main.js": "/REACT_MOVIES_APP/static/js/main.c60af9cd.chunk.js",
-    "main.js.map": "/REACT_MOVIES_APP/static/js/main.c60af9cd.chunk.js.map",
+    "main.js": "/REACT_MOVIES_APP/static/js/main.7563ba09.chunk.js",
+    "main.js.map": "/REACT_MOVIES_APP/static/js/main.7563ba09.chunk.js.map",
     "runtime-main.js": "/REACT_MOVIES_APP/static/js/runtime-main.9062019e.js",
     "runtime-main.js.map": "/REACT_MOVIES_APP/static/js/runtime-main.9062019e.js.map",
     "static/js/2.98442e66.chunk.js": "/REACT_MOVIES_APP/static/js/2.98442e66.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9062019e.js",
     "static/js/2.98442e66.chunk.js",
     "static/css/main.486dd15e.chunk.css",
-    "static/js/main.c60af9cd.chunk.js"
+    "static/js/main.7563ba09.chunk.js"
   ]
 }
